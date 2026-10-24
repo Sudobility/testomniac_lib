@@ -9,8 +9,8 @@
       },
       "devDependencies": {
         "@eslint/js": "~9.39.5",
-        "@sudobility/testomniac_client": "^0.0.138",
-        "@sudobility/testomniac_types": "^0.0.114",
+        "@sudobility/testomniac_client": "^0.0.139",
+        "@sudobility/testomniac_types": "^0.0.115",
         "@sudobility/types": "^1.9.76",
         "@tanstack/react-query": "~5.104.5",
         "@testing-library/react": "~16.3.3",
@@ -33,8 +33,8 @@
         "zustand": "~5.0.16",
       },
       "peerDependencies": {
-        "@sudobility/testomniac_client": "^0.0.138",
-        "@sudobility/testomniac_types": "^0.0.114",
+        "@sudobility/testomniac_client": "^0.0.139",
+        "@sudobility/testomniac_types": "^0.0.115",
         "@sudobility/types": "^1.9.76",
         "@tanstack/react-query": ">=5.0.0",
         "react": ">=18.0.0",
@@ -145,9 +145,9 @@
 
     "@standard-schema/spec": ["@standard-schema/spec@1.1.0", "", {}, "sha512-l2aFy5jALhniG5HgqrD6jXLi/rUWrKvqN/qJx6yoJsgKhblVd+iqqU4RCXavm/jPityDo5TCvKMnpjKnOriy0w=="],
 
-    "@sudobility/testomniac_client": ["@sudobility/testomniac_client@0.0.138", "https://npm.pkg.github.com/download/@sudobility/testomniac_client/0.0.138/4e6c1add1d8cfc2573eb7517800c2a7c74f7537c", { "peerDependencies": { "@sudobility/types": "^1.9.76", "@tanstack/react-query": ">=5.0.0", "react": ">=18.0.0" } }, "sha512-v/xbodgh1JiCAZyiX8Z5D4tFJfyyRF8rYPK4WuCEWZxs845vqm8BhS3Y35rpF1WcVGHEoGL9MHT4zB2gtLzFJw=="],
+    "@sudobility/testomniac_client": ["@sudobility/testomniac_client@0.0.139", "https://npm.pkg.github.com/download/@sudobility/testomniac_client/0.0.139/b7729b26ba8c1ee415cfc7e3d584c0e8fb0f628c", { "peerDependencies": { "@sudobility/types": "^1.9.76", "@tanstack/react-query": ">=5.0.0", "react": ">=18.0.0" } }, "sha512-+4twKHkWF9ej7JJ5jg1GxwOYV/Y/t6/eALZrbOdFC3RJtWTZx+Qyl1DmVrhQvW4UBOXq7+LY8hmP71UdllMg/w=="],
 
-    "@sudobility/testomniac_types": ["@sudobility/testomniac_types@0.0.114", "https://npm.pkg.github.com/download/@sudobility/testomniac_types/0.0.114/c50ccd8fae382a657109ecfc451b8907234338bd", { "peerDependencies": { "@sudobility/types": "^1.9.76" } }, "sha512-/N7XnF+/5W4HPHXBez1a4JUOKynvzV3MCWsj6G1SGBkZLS2Pp+l2GIvIY6aadSlvE3ZREyD00PN0FrpvsHkdYw=="],
+    "@sudobility/testomniac_types": ["@sudobility/testomniac_types@0.0.115", "https://npm.pkg.github.com/download/@sudobility/testomniac_types/0.0.115/7290c396bd202629b96d55445140655997912dd1", { "peerDependencies": { "@sudobility/types": "^1.9.76" } }, "sha512-ZfzUIwh38TIJVo2hKh6HhXrXhADExAI9Dm777RrzwGyZDcuAInBJaDjVwgB4m/nRNFqjaZiqoElmggfgxCMOaQ=="],
 
     "@sudobility/types": ["@sudobility/types@1.9.76", "https://npm.pkg.github.com/download/@sudobility/types/1.9.76/71635156f72fd9461107d5f147b3dc1c49f863d0", {}, "sha512-b7maZHR5wM84VlQ+l9R+2guzSOrExog6OUNy1oCe7h0abW13syycmnLQL0g+qql0aQ84qTB4A0mJelhY3Vef4Q=="],
 
@@ -337,7 +337,7 @@
 
     "https-proxy-agent": ["https-proxy-agent@7.0.6", "", { "dependencies": { "agent-base": "^7.1.2", "debug": "4" } }, "sha512-vK9P5/iUfdl95AI+JVyUuIcVtd4ofvtrOr3HNtM2yxC9bnMbEdp3x01OhQNnjb8IJYi38VlTE3mBXwcfvywuSw=="],
 
-    "ignore": ["ignore@7.0.13", "", {}, "sha512-2E8Q6rh+1RRSq/YdaGsNfXsEZy9FVqv6BSSrkmZJP7BnaoPnRfKL+YaofPvP+5rzdk144qSm6i4+hvPgUcbV4Q=="],
+    "ignore": ["ignore@7.0.14", "", {}, "sha512-wCBiZ77u1tuWde6G/nfOtLaCTYcFDU5yCzARzK10y+rLhzYoL7a7yEemcopcc2Mzow7gZOIjnV2ym1NYmdiJOQ=="],
 
     "import-fresh": ["import-fresh@3.3.1", "", { "dependencies": { "parent-module": "^1.0.0", "resolve-from": "^4.0.0" } }, "sha512-TR3KfrTZTYLPB6jUjfx6MF9WcWrHL9su5TObK4ZkYgBdWKPOFoSoQIdEuTuR82pmtxH2spWG9h6etwfr1pLBqQ=="],
 
