@@ -9,7 +9,7 @@
       },
       "devDependencies": {
         "@eslint/js": "~10.0.1",
-        "@sudobility/testomniac_client": "^0.0.144",
+        "@sudobility/testomniac_client": "^0.0.145",
         "@sudobility/testomniac_types": "^0.0.116",
         "@sudobility/types": "^1.9.78",
         "@tanstack/react-query": "~5.104.5",
@@ -33,7 +33,7 @@
         "zustand": "~5.0.16",
       },
       "peerDependencies": {
-        "@sudobility/testomniac_client": "^0.0.144",
+        "@sudobility/testomniac_client": "^0.0.145",
         "@sudobility/testomniac_types": "^0.0.116",
         "@sudobility/types": "^1.9.78",
         "@tanstack/react-query": ">=5.0.0",
@@ -181,7 +181,7 @@
 
     "@standard-schema/spec": ["@standard-schema/spec@1.1.0", "", {}, "sha512-l2aFy5jALhniG5HgqrD6jXLi/rUWrKvqN/qJx6yoJsgKhblVd+iqqU4RCXavm/jPityDo5TCvKMnpjKnOriy0w=="],
 
-    "@sudobility/testomniac_client": ["@sudobility/testomniac_client@0.0.144", "https://npm.pkg.github.com/download/@sudobility/testomniac_client/0.0.144/72eb4eadbb73f8657506a517a3e21fb9f0963c00", { "peerDependencies": { "@sudobility/types": "^1.9.78", "@tanstack/react-query": ">=5.0.0", "react": ">=18.0.0" } }, "sha512-sY+7bAQeybeuSlfM0LyLdes0XwemLI/i+MJQWEIXkmH3VDNDu9AvaTngVz9aZxmEqoEQOFcqfr1moK0/OIgzRQ=="],
+    "@sudobility/testomniac_client": ["@sudobility/testomniac_client@0.0.145", "https://npm.pkg.github.com/download/@sudobility/testomniac_client/0.0.145/e7d0513ad66c62795adbc89795b26c4aae7f1be7", { "peerDependencies": { "@sudobility/types": "^1.9.78", "@tanstack/react-query": ">=5.0.0", "react": ">=18.0.0" } }, "sha512-ntzS+L2D3k+m5wuQW6NvNkXUfyjw9Ev3uZs1ENHJ1AYVUY4AQUduQNtTRJ2EGZtqTzX4vCK+uglGCJlWOXA9Rg=="],
 
     "@sudobility/testomniac_types": ["@sudobility/testomniac_types@0.0.116", "https://npm.pkg.github.com/download/@sudobility/testomniac_types/0.0.116/725de1395cbc3664dfb871a9d1809a2b3058e93e", { "peerDependencies": { "@sudobility/types": "^1.9.78" } }, "sha512-/3axnkFLUXoS7wJpwWF4dOGGUtipVWSGmbOPCdS1HGa8RdJv/SpcuBMjBriGcbqRcks5D49BPNu/kUsvEnPDYQ=="],
 
